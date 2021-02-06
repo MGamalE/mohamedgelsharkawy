@@ -8,4 +8,4 @@ Currently working as a Mobile Developer
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohamedgelsharkawy&show_icons=true&theme=gotham" alt="mohamedgelsharkawy" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohamedgelsharkawy&show_icons=true&theme=gotham" include_all_commits=true alt="mohamedgelsharkawy" />
